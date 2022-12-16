@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hangman-project/static/css/main.cabd67f1.css",
+    "main.js": "/hangman-project/static/js/main.756d5b24.js",
+    "static/js/787.d3432efd.chunk.js": "/hangman-project/static/js/787.d3432efd.chunk.js",
+    "static/media/6.jpg": "/hangman-project/static/media/6.33ea70122206d18555de.jpg",
+    "static/media/5.jpg": "/hangman-project/static/media/5.bb0f0ce1c8b6c8fe0e79.jpg",
+    "static/media/4.jpg": "/hangman-project/static/media/4.b272e7f1b6733f1c232f.jpg",
+    "static/media/3.jpg": "/hangman-project/static/media/3.0db4986f22eed20b43f5.jpg",
+    "static/media/2.jpg": "/hangman-project/static/media/2.27a86c9e28f3136f0d56.jpg",
+    "static/media/1.jpg": "/hangman-project/static/media/1.9a23caa6d0d1e6035dd0.jpg",
+    "static/media/0.jpg": "/hangman-project/static/media/0.72059a7fffc7cf1cf38f.jpg",
+    "index.html": "/hangman-project/index.html",
+    "main.cabd67f1.css.map": "/hangman-project/static/css/main.cabd67f1.css.map",
+    "main.756d5b24.js.map": "/hangman-project/static/js/main.756d5b24.js.map",
+    "787.d3432efd.chunk.js.map": "/hangman-project/static/js/787.d3432efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabd67f1.css",
+    "static/js/main.756d5b24.js"
+  ]
+}
